@@ -22,3 +22,4 @@ You can view a live demo of the stopwatch [here](https://chand-ali-tech.github.i
 1. Clone the repository:
    ```bash
    git clone https://github.com/Chand-Ali-tech/stopwatch.git
+2. Open html file with live server.
